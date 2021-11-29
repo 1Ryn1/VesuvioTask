@@ -1,0 +1,6 @@
+Dear Sir/Mam,
+
+I wholeheartedly submit to you my task for the TRAINEE position at your organization. Because of my basic experience i couldnt finish the Add Product feature (CRUD) in the frontend, Login and Sign up feature and 
+also conducted some basic mishaps with HTML and CSS. I strongly apologize for that. With that being said I have made a separate Login/Signup program and also some CRUD programs and API's which are present
+in my GitHUB repository.I humbly request you to please take a look. In the end I would like to thank you for the opportunity and assure you that if i were to be selected, with given time
+and dedication i will prove as a strong asset to you organization.         
